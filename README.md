@@ -2,7 +2,18 @@
 Isaac Guerrero Iag8 10/6/2023
 
 ## Part 1: Directions on Using Webstorm
+### Git
+1. Download and Install Git:
+- Go to the Git website: https://git-scm.com/downloads
+- Download the appropriate version for your operating system 
+- Install Git by following the on-screen instructions
 
+2. Configure Git:
+- Open a terminal 
+- Set your name and email address for Git:
+    - git config --global user.name "Your Name"
+    - git config --global user.email "your.email@example.com"
+### Webstorm & GitHub
 1. Download and Install WebStorm:
 - Go to the JetBrains website: https://www.jetbrains.com/webstorm/download/
 - Download the appropriate version for your operating system
@@ -16,6 +27,7 @@ Isaac Guerrero Iag8 10/6/2023
 3. Initialize a Git Repository:
 - In WebStorm, navigate to the top menu and click "VCS" - "Enable Version Control Integration"
 - Select "Git" and click "OK"
+
 
 4. Create and Edit Files:
 - Create or add files to your project as needed
